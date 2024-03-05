@@ -1,0 +1,18 @@
+<orders> 
+	<order no="o100" cid="c100" addr="LA">
+		<entry>
+			<pname>iphone15</pname>
+			<quantity>2</quantity>
+		</entry>
+		<entry>
+			<pname>t450s</pname>
+			<quantity>4</quantity>
+		</entry>
+	</order>
+	<order no="o101" cid="c101" addr = "SFO">
+		<entry>
+			<pname>iphone14</pname>
+			<quantity>3</quantity>
+		</entry>
+	</order>
+</orders>
