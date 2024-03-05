@@ -79,5 +79,3 @@ insert into Frequents values('Steve', 'Bob''s bar');
 insert into Frequents values('Bill', 'Mary''s bar');
 insert into Frequents values('Jennifer', 'Joe''s bar');
 insert into Frequents values('David', 'Joe''s bar');
-
-
